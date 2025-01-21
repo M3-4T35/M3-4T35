@@ -1,5 +1,4 @@
 ### Hi there 👋
-I like Mount & blade warband and Mount & blade 2 bannerlord
 <!--
 **M3-4T35/M3-4T35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
