@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I'm a **computer science student** passionate abou
 - [🔗 ru_project](https://github.com/PlsJustDoIt/ru_project) – This project provides a full-stack solution combining a Node/TypeScript back end, a Flutter front end, and MongoDB. It offers user authentication, an admin interface, and real-time features (e.g., chat), aiming to streamline bug reporting, data management, and overall app administration. 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ates-pro/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:mehmet.ates.pro@outlook.fr)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ates-pro/)  
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:mehmet.ates.pro@outlook.fr)  
 <!--
 **M3-4T35/M3-4T35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
