@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **computer science student** passionate abou
 
 ## 🔧 Tech Stack  
 - **Languages**:  
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white)  
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
   - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
   - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
