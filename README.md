@@ -36,7 +36,8 @@ Welcome to my GitHub profile! I'm a **computer science student** passionate abou
 
 
 ## 📌 Featured Projects  
-- [🔗 ru_project](https://github.com/PlsJustDoIt/ru_project) – This project provides a full-stack solution combining a Node/TypeScript back end, a Flutter front end, and MongoDB. It offers user authentication, an admin interface, and real-time features (e.g., chat), aiming to streamline bug reporting, data management, and overall app administration. 
+- [🔗 ru_project](https://github.com/PlsJustDoIt/ru_project) – This project provides a full-stack solution combining a Node/TypeScript back end, a Flutter front end, and MongoDB. It offers user authentication, an admin interface, and real-time features (e.g., chat), aiming to streamline bug reporting, data management, and overall app administration.
+- [🔗 CalcMent](https://github.com/M3-4T35/CalcMent) - CalcMent is a mobile application developed with Expo and TypeScript. It aims to help users improve their mental arithmetic skills by providing them with operations to solve.
 
 ## 📫 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ates-pro/)  
